@@ -8,22 +8,7 @@
     "extra": {
         "component": {
             "scripts": [
-                "lib/ace/ace.js",
-                "lib/ace/config.js",
-                "lib/ace/dom.js",
-                "lib/ace/edit_session.js",
-                "lib/ace/editor.js",
-                "lib/ace/error_marker.js",
-                "lib/ace/event.js",
-                "lib/ace/fixoldbrowsers.js",
-                "lib/ace/fold_mode.js",
-                "lib/ace/hash_handler.js",
-                "lib/ace/multi_select.js",
-                "lib/ace/placeholder.js",
-                "lib/ace/theme/textmate.js",
-                "lib/ace/undomanager.js",
-                "lib/ace/virtual_renderer.js",
-                "lib/ace/worker_client.js"
+                "lib/ace/*"
             ]
         }
     }
