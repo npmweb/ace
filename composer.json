@@ -20,7 +20,7 @@
                 "lib/ace/hash_handler.js",
                 "lib/ace/multi_select.js",
                 "lib/ace/placeholder.js",
-                "lib/ace/textmate.js",
+                "lib/ace/theme/textmate.js",
                 "lib/ace/undomanager.js",
                 "lib/ace/virtual_renderer.js",
                 "lib/ace/worker_client.js"
