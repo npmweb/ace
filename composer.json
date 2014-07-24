@@ -1,0 +1,15 @@
+{
+    "name": "npmweb/ace",
+    "description": "Ace (Ajax.org Cloud9 Editor) with a Composer Components config file",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "lib/ace/ace.js"
+            ]
+        }
+    }
+}
